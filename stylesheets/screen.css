@@ -928,9 +928,10 @@ body {
 
 /* line 602, ../sass/screen.scss */
 #prepi {
-  height: calc(200px + 40px + 2vh + 4vh + 5em + 20vh + 57px + 10vh);
+  height: calc(90px + 2vh + 4vh + 5em + 20vh);
   width: 100%;
   background: #f6e76a;
+  padding: 20px;
 }
 /* line 607, ../sass/screen.scss */
 #prepi h2 {
@@ -1106,7 +1107,6 @@ body {
 /* line 761, ../sass/screen.scss */
 .prep {
   width: 80%;
-  height: 50vh;
   float: left;
 }
 /* line 766, ../sass/screen.scss */
@@ -1118,16 +1118,17 @@ body {
   max-height: 200px;
   display: block;
   filter: url("data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg'&gt;&lt;filter id='grayscale'&gt;&lt;feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/&gt;&lt;/filter&gt;&lt;/svg&gt;#grayscale");
+  padding-right: 30px;
   /* Firefox 10+, Firefox on Android */
-  filter: gray;
+  /*filter: gray;
   /* IE6-9 */
-  -webkit-filter: grayscale(100%);
+  /*-webkit-filter: grayscale(100%);
   /* Chrome 19+, Safari 6+, Safari 6+ iOS */
 }
 /* line 778, ../sass/screen.scss */
 .prep h2 {
   margin-top: 2vh;
-  text-align: center;
+  text-align: left;
   font-size: 26px;
   line-height: 40px;
 }
@@ -1137,7 +1138,7 @@ body {
   padding-right: 2%;
   padding-top: 2vh;
   padding-bottom: 2vh;
-  line-height: 19px;
+  line-height: 20px;
   color: #373a3c;
 }
 
