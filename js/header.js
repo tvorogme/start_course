@@ -4,7 +4,7 @@
 
 function initialize() {
     var mapProp = {
-        center: new google.maps.LatLng(55.740525,37.608855),
+        center: new google.maps.LatLng(55.7671006,37.6096778),
         zoom: 14,
         scrollwheel: false,
         navigationControl: false,
@@ -15,11 +15,11 @@ function initialize() {
     };
     var map = new google.maps.Map(document.getElementById("map"), mapProp);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(55.740525,37.608855),
+        position: new google.maps.LatLng(55.7671006,37.6096778),
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
-        content: "<p id='map_text'>Ключ Октябрь <br> ул. Берсеневская набережная, 6, стр. 2, 3 этаж <br> <a href='http://www.kl10.ch/'>kl10.ch</a></p>"
+        content: "<p id='map_text'> Yellow Door <br> Страстной бульвар, 12/1</p>"
     });
 
     iw1.open(map, marker);
