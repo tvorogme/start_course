@@ -5,7 +5,7 @@
 function initialize() {
     var mapProp = {
         center: new google.maps.LatLng(55.7671006,37.6096778),
-        zoom: 14,
+        zoom: 16,
         scrollwheel: false,
         navigationControl: false,
         mapTypeControl: false,
