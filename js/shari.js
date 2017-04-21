@@ -92,11 +92,11 @@ $(document).ready(function () {
             });
 
             $("#clicker").click(function () {
-                window.location = "https://goo.gl/forms/Y2cQiK3F7GhV58Qf1"
+                window.location = "https://goo.gl/forms/8397QzfQs8AEozyj2"
             });
 
             $("#first_step").click(function () {
-                window.location = "https://goo.gl/forms/Y2cQiK3F7GhV58Qf1"
+                window.location = "https://goo.gl/forms/8397QzfQs8AEozyj2"
             });
         }
 
