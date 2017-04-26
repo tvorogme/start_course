@@ -14,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="screen.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/screen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="1161" column="1" lean-forward="false" selection-start-line="1161" selection-start-column="1" selection-end-line="1161" selection-end-column="1" />
+            <state relative-caret-position="830">
+              <caret line="1171" column="30" lean-forward="false" selection-start-line="1171" selection-start-column="30" selection-end-line="1171" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -214,18 +214,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stylesheets/screen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="1161" column="1" lean-forward="false" selection-start-line="1161" selection-start-column="1" selection-end-line="1161" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="1465" column="45" lean-forward="false" selection-start-line="1465" selection-start-column="45" selection-end-line="1465" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="1171" column="30" lean-forward="false" selection-start-line="1171" selection-start-column="30" selection-end-line="1171" selection-end-column="30" />
           <folding />
         </state>
       </provider>

@@ -1168,8 +1168,8 @@ body {
     display: none;
   }
 
-  .mobileonly{
-    display: block;
+  #mobileonly{
+    display: block !important;
   }
 
   #opis_fix h2{
