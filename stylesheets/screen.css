@@ -1159,7 +1159,23 @@ body {
   line-height: 82px;
 }
 
+.mobileonly{
+  display: none;
+}
+
 @media screen and (max-width: 1000px) {
+  #mobile_fix{
+    display: none;
+  }
+
+  .mobileonly{
+    display: block;
+  }
+
+  #opis_fix h2{
+    text-align: center;
+    margin-top: 10px;
+  }
   /* line 810, ../sass/screen.scss */
   #timeline {
     margin: auto;
