@@ -19,7 +19,7 @@ function initialize() {
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
-        content: "<p id='map_text'> Yellow Door <br> Страстной бульвар, 12/1</p>"
+        content: "<p id='map_text'> <a id='map_a' href='http://yellowdoor.ru/'>Yellow Door</a> <br> Страстной бульвар, 12/1</p>"
     });
 
     iw1.open(map, marker);
