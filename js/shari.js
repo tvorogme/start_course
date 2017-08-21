@@ -39,7 +39,7 @@ $(document).ready(function () {
         if ($("body").width() == 1050) {
             x = $(this).position().left + $(this).outerWidth(true) / 2;
             y = $(this).position().top + $(this).outerHeight() / 2 - 250;
-            r = 270;
+            r = 320;
             mobile = true;
         } else {
             $("#proto").css("height", $(".how-to-take_part").height());
