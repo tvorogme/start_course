@@ -49,7 +49,7 @@ $(document).ready(function () {
             }, 1000);
         } else {
             $("#logo").animate({
-                height: "27vh"
+                height: "22vh"
             }, 1000);
 
             $("#header_logo_wrapper").animate({
@@ -94,7 +94,7 @@ $(document).ready(function () {
                     }, 1000);
                 } else {
                     $("#logo").css({
-                        height: "27vh"
+                        height: "22vh"
                     }, 1000);
 
                     $("#header_logo_wrapper").css({
