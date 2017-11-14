@@ -749,10 +749,11 @@ body {
 /* line 420, ../sass/screen.scss */
 #text_near_logo h2 {
     padding-top: 20px;
-    margin-left: 0px;
+    margin-left: 0;
     font-size: 30px;
     font-weight: lighter;
     letter-spacing: 2px;
+    padding-bottom: 16px;
 }
 
 /* line 429, ../sass/screen.scss */
