@@ -211,7 +211,7 @@ label:hover {
 /* line 179, ../sass/timeline.sass */
 .radio:checked ~ .content p {
     max-height: 400px;
-    color: #eee9dc;
+    color: white;
     transition: color 0.3s linear 0.3s;
 }
 
